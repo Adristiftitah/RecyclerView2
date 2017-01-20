@@ -1,2 +1,2 @@
 # RecyclerView2
-https://github.com/Adristiftitah/RecyclerView3/tree/master
+### Adristi Iftitah Yuniar_XIRPL6_02_4650/1369.070_SMK Telkom Malang 
